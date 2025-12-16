@@ -58,23 +58,6 @@ Two retrieval modes are supported:
 
 ---
 
-## Project Structure
-
-Personal-Knowledge-Engine/
-│
-├── app.py
-├── chroma_db/
-├── src/
-│ ├── agent.py
-│ ├── retriever.py
-│ ├── db.py
-│ ├── ingest.py
-│ ├── loader.py
-│ ├── model.py
-│ └── prompt.py
-│
-├── requirements.txt
-└── README.md
 
 ## Setup Instructions
 
